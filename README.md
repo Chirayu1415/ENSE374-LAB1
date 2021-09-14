@@ -8,4 +8,4 @@ I love **C++**.
 - [ ] ENSE352
 - [ ] ENEL384
 - [ ] CS340
-- [ ] PHYS112 
+- [x] PHYS112 
