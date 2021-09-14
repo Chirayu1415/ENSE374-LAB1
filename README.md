@@ -2,5 +2,10 @@
 
 I love **C++**.
 
-> This is second Element.
+> course taken this semester.
 
+- [ ] ENSE374
+- [ ] ENSE352
+- [ ] ENEL384
+- [ ] CS340
+- [ ] PHYS112 
